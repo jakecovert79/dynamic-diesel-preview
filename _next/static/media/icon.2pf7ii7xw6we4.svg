@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Tab icon: an italic chrome "D" with a gold outline, after the D in the Dynamic Diesel logo -->
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ff3e6"/>
+      <stop offset=".45" stop-color="#ffffff"/>
+      <stop offset=".52" stop-color="#1e5bff"/>
+      <stop offset="1" stop-color="#4fe3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0b0d10"/>
+  <path transform="translate(9 0) skewX(-12)"
+        d="M16 10h14a22 22 0 0 1 0 44H16zM26.5 20.5v23h3.5a11.5 11.5 0 0 0 0-23z"
+        fill="url(#chrome)" fill-rule="evenodd" stroke="#f7a823" stroke-width="3" stroke-linejoin="round"/>
+</svg>
